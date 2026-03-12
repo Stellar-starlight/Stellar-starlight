@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Olá! Meu nome é Stella.
+Sou estudante do curso técnico de Informática para Internet na ETEC e estou começando minha jornada no mundo da tecnologia e do desenvolvimento web.
+
+Atualmente estou estudando principalmente HTML e aprendendo cada vez mais sobre como criar páginas e projetos para a internet.
+
+🎮 No meu tempo livre, gosto de:
+
+- Jogar videogame
+- Fazer arte digital
+- Explorar coisas criativas na internet
+
+📚 Estou sempre tentando aprender coisas novas e melhorar minhas habilidades em programação e desenvolvimento web.
 
 <!--
-**Stellar-starlight/Stellar-starlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
