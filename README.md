@@ -6,8 +6,9 @@ Atualmente estou estudando principalmente HTML e aprendendo cada vez mais sobre 
 🎮 No meu tempo livre, gosto de:
 
 - Jogar videogame
-- Fazer arte digital
+- Fazer animações
 - Explorar coisas criativas na internet
+- Escrever histórias 
 
 📚 Estou sempre tentando aprender coisas novas e melhorar minhas habilidades em programação e desenvolvimento web.
 
